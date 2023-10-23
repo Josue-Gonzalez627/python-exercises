@@ -1,0 +1,1 @@
+This repository will be used for the upcoming Python exercises.
